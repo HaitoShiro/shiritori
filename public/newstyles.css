@@ -1,0 +1,50 @@
+body {
+	font-family:"Yu Gothic Medium","ü‡ÉSÉVÉbÉN medium",YuGothic"ü‡ÉSÉVÉbÉNëÃ","ÉqÉâÉMÉmäpÉS pro w3",sans-serif;
+    background-image: url(background.png);
+}
+.home1{
+	background: white;
+	margin-top: 25px;
+	margin-left: 560px;
+	margin-right: 560px;
+	text-align: center;
+	padding: 10px;
+}
+h1{
+	text-align: center;
+	margin-top: 100px;
+}
+a{
+	background: white;
+	margin-top: 80px;
+	margin-left: 700px;
+	margin-right: 560px;
+	padding: 20px;
+}
+
+h3{
+	margin-top: 30px;
+	margin-left: 1200px;
+}
+.home2{
+	background: white;
+	margin-top: 0px;
+	margin-left: 560px;
+	margin-right: 560px;
+	height: 450px;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
